@@ -29,4 +29,35 @@
 ### Issues
 - Faced and resolved some Java logic in Level 3 problems and Git-related issues during the session.
 
+## Week 5 — Arrays and Methods
+
+**Classwork / Practice:**
+- Hackathon Score Curve Booster
+- Duplicate Team Name Finder
+- Top-3 Podium Finder
+- Hackathon Seating Grid Optimizer
+- Placement Drive Shortlisting & Ranking Engine
+
+**Assignment:**
+- Fantasy Team Score Multiplier
+- Duplicate Player Pick Checker
+- Top Performer Tracker
+- Match Day Grid Analyzer
+- Fantasy League Auto-Draft Ranking Engine
+
+**Concepts Covered:**
+- Creating and modifying arrays
+- Arrays passed by reference
+- Nested loops
+- Single-pass array traversal
+- 2D arrays
+- User-defined methods
+- Method overloading
+- Constructors
+- Encapsulation
+- Comparable
+- Arrays.sort()
+
+**Status:** Completed
+
 ---# Step_semester_3
