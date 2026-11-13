@@ -1,208 +1,45 @@
-# Step Semester 3
+# STEP Semester 3 — Java Programming
 
-Java programming practice and assignments completed as part of the STEP Semester 3 program.
+This repository contains my Java programming practice, classwork, and assignments completed as part of the STEP Semester 3 program.
 
----
+## Topics Covered
 
-## Week 1 — String Fundamentals
+- **Weeks 1–2:** String Fundamentals and String Operations
+- **Week 3:** Loops and Logical Problem Solving
+- **Weeks 4–5:** Arrays and Methods
+- **Week 6:** Classes and Objects
+- **Weeks 7–9:** Java Programming Practice and Concepts
+- **Week 10:** DSA Fundamentals
+- **Week 11:** Sorting Algorithms
 
-### Classwork / Practice
-- String basics and character operations
-- String manipulation problems
-- Basic logical problem solving using strings
+## Concepts Practiced
 
-### Assignment
-- Exam Hall Seat Duplication Checker
-- Movie Review Word Length Profiler
-- Traffic Signal Streak Analyzer
-- Typing Speed Test Accuracy Checker
-- Warehouse Inventory Balancer
+- Java basics and problem solving
+- Strings and String manipulation
+- Loops and conditional statements
+- Arrays and 2D arrays
+- Methods and method overloading
+- Object-Oriented Programming
+- Classes, objects and constructors
+- Encapsulation and object references
+- Searching and sorting algorithms
+- HashSet and HashMap
+- Git and GitHub version control
 
-### Concepts Covered
-- String fundamentals
-- `length()`
-- `charAt()`
-- Character comparison
-- String traversal
-- Nested loops
-- Arrays
-- Basic conditional logic
-- Finding duplicates
-- Counting and tracking values
+## Repository Structure
 
-**Status:** Completed
+```text
+Step_semester_3/
+├── src/main/java/
+│   ├── string/
+│   ├── loops/
+│   ├── arrays/
+│   ├── arrays_methods/
+│   ├── encapsulation/
+│   ├── inheritance/
+│   ├── dsa_fundamentals/
+│   └── sorting_algorithms/
+└── README.md
+```
 
----
-
-## Week 2 — String Operations
-
-### Classwork / Practice
-- Vowel and Consonant Counter
-- CSV Student Record Parser
-- File Extension Validator
-- Masked Phone Number Formatter
-- Bank Transaction Reference Generator and Validator
-
-### Assignment
-- ATM PIN Length Validator
-- Word Reversal Encoder
-- Product Inventory CSV Parser
-- Library ISBN Normalizer and Validator
-- Stop-Word-Filtered Word Frequency Report
-
-### Concepts Covered
-- String methods
-- `length()`
-- `charAt()`
-- `substring()`
-- `indexOf()`
-- `lastIndexOf()`
-- `equals()`
-- `equalsIgnoreCase()`
-- `trim()`
-- `replace()`
-- `split()`
-- String manipulation
-- ASCII codes and conversion
-- `StringBuilder`
-- `StringBuffer`
-
-**Status:** Completed
-
----
-
-## Week 3 — Loops and Logical Problem Solving
-
-### Classwork / Practice
-- Loop-based programming problems
-- Nested loop problems
-- Switch-based problems
-- Pattern and number problems
-
-### Assignment
-- PIN Retry
-- Traffic Signal
-- Number Pyramid
-- Calculator
-- Prime Number Checker
-
-### Concepts Covered
-- `for` loop
-- `while` loop
-- Nested loops
-- `switch`
-- `break`
-- `continue`
-- Boolean flags
-- Conditional logic
-- Number-based problem solving
-- Pattern generation
-
-**Status:** Completed
-
----
-
-## Week 4 — Arrays
-
-### Classwork / Practice
-- Two Sum
-- Best Time to Buy and Sell Stock
-- Contains Duplicate
-- Merge Two Sorted Arrays
-- Rotate Array
-
-### Assignment
-- Product of Array Except Self
-- Maximum Subarray
-- 3Sum
-- Subarray Sum Equals K
-- Find Minimum in Rotated Sorted Array
-
-### Concepts Covered
-- Creating and initializing arrays
-- Array indexing
-- Traversing arrays
-- Modifying arrays
-- `length`
-- Nested loops
-- Two-pointer technique
-- Prefix sums
-- Binary search
-- Array manipulation
-- Single-pass traversal
-
-**Status:** Completed
-
----
-
-## Week 5 — Arrays and Methods
-
-### Classwork / Practice
-- Hackathon Score Curve Booster
-- Duplicate Team Name Finder
-- Top-3 Podium Finder
-- Hackathon Seating Grid Optimizer
-- Placement Drive Shortlisting & Ranking Engine
-
-### Assignment
-- Fantasy Team Score Multiplier
-- Duplicate Player Pick Checker
-- Top Performer Tracker
-- Match Day Grid Analyzer
-- Fantasy League Auto-Draft Ranking Engine
-
-### Concepts Covered
-- Creating and modifying arrays
-- Arrays passed by reference
-- Nested loops
-- Single-pass array traversal
-- 2D arrays
-- User-defined methods
-- Method overloading
-- Constructors
-- Encapsulation
-- `Comparable`
-- `Arrays.sort()`
-
-**Status:** Completed
-
----
-
-## Week 6 — Classes and Objects
-
-### Classwork / Practice
-- Student Placement Record Management
-- Hostel Mess Wallet Management
-- Course Credit Management
-- Library ID Card Management
-- Student and College Information Management
-
-### Assignment
-- Library Inventory Management
-- Payroll Salary Management
-- Employee Profile Creation
-- Exam Hall Ticket Reference Management
-- Employee and Company Information Management
-
-### Concepts Covered
-- Classes and objects
-- Object creation
-- Object references
-- Instance fields and methods
-- Constructors
-- Constructor overloading
-- `this` keyword
-- Constructor chaining using `this(...)`
-- Access modifiers
-- `private` fields
-- Encapsulation
-- Getter methods
-- Static fields
-- Static methods
-- Shared class-level data
-- Object reference comparison using `==`
-- Arrays of objects
-
-**Status:** Completed
-
----
+**Status:** Completed coursework and assignments.
