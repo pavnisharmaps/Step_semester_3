@@ -11,6 +11,7 @@ This repository contains my Java programming practice, classwork, and assignment
 - **Weeks 7–9:** Java Programming Practice and Concepts
 - **Week 10:** DSA Fundamentals
 - **Week 11:** Sorting Algorithms
+- **Week 12:** Linked Lists, Stacks and Queues
 
 ## Concepts Practiced
 
@@ -22,7 +23,10 @@ This repository contains my Java programming practice, classwork, and assignment
 - Object-Oriented Programming
 - Classes, objects and constructors
 - Encapsulation and object references
+- Inheritance and polymorphism
 - Searching and sorting algorithms
+- Linked lists and node operations
+- Stack and queue operations
 - HashSet and HashMap
 - Git and GitHub version control
 
@@ -38,8 +42,11 @@ Step_semester_3/
 │   ├── encapsulation/
 │   ├── inheritance/
 │   ├── dsa_fundamentals/
-│   └── sorting_algorithms/
+│   ├── sorting_algorithms/
+│   └── linked_lists/
+│       ├── class_problems/
+│       └── assigment_problems/
 └── README.md
 ```
 
-**Status:** Completed coursework and assignments.
+**Status:** Completed coursework and assignments through Week 12.
